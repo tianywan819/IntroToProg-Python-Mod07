@@ -18,3 +18,5 @@ Structured error handling is included under the define function. In the script, 
 In this section, the user would have the opportunity to choose between three options that would allow the user to write and save data, read current data and exit out. For each option, I can just call the Pickle function I created before to save and read data. 
 ![presentation](https://github.com/tianywan819/IntroToProg-Python-Mod07/blob/master/docs/Screen%20Shot%202019-11-18%20at%202.23.02%20PM.png "Presentation")
 #### Figure 3. Presentation
+## Summary
+In this assignment, I used an interactive simple script to demonstrate Pickle Function and Structured Error Handling in a while loop. Using a customized error code makes it easier for users to understand and use. Throughout researching Pickle Function, I do find there are more Pickling classes. Hopefully, I will have the chance to work with some of those.
